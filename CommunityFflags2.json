@@ -30,5 +30,17 @@ Find Fflags Posted by the Plexity Dev Team Here:
   "FLogTencentAuthPath": "false",
   "FStringDevPublishChinaRequirementsLink": "null",
   "FLogDevPublishChinaRequirementsLink": "false",
-  "FFlagPerformanceControlAveragedQuality3": "false"
+  "FFlagPerformanceControlAveragedQuality3": "false",
+  "DFIntFullscreenVolume": 0,
+  "DFIntImmersiveAdVideoFullScreenEventThrottleHundredthsPercent": 0,
+  "DFIntSmoothFullscreenZoomDurationMs": 2000,
+  "DFStringAdsEnterFullscreenImage": "rbxassetid://14986182327",
+  "DFStringAdsExitFullscreenImage": "rbxassetid://14986181606",
+  "FFlagCleanUpFullscreenTitleBarPromiseOnUnmount": true,
+  "FFlagFixCyclicFullscreenIndexEvent": false,
+  "FFlagFixFullscreenTitleBarPromiseCancel": true,
+  "FFlagFullscreenTitleBarInjectGameServices": true,
+  "FFlagHandleAltEnterFullscreenManually": true,
+  "FFlagPhoneVerificationWebviewShouldBeFullscreen1": true,
+  "FIntFullscreenTitleBarTriggerDelayMillis": 500
 }
