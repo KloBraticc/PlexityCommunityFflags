@@ -2,5 +2,11 @@ Find Fflags Posted by the Plexity Dev Team Here:
 
 {
   "DFFlagEnableKFSFindOrAddLookupTable": true,
-  "FFlagUseConstRefsForLogServiceStringify": true
+  "FFlagUseConstRefsForLogServiceStringify": true,
+  "DFIntGraphicsOptimizationModePerformanceBiasPercent": 100,
+  "DFIntGraphicsOptimizationModeBalancedBiasPercent": 1,
+  "DFIntGraphicsOptimizationModeQualityBiasPercent": 1,
+  "FStringIXPGraphicsOptimizationModePerformanceBias": "performanceBias",
+  "FStringIXPGraphicsOptimizationModeBalancedBias": "null",
+  "FStringIXPGraphicsOptimizationModeQualityBias": "null"
 }
