@@ -42,5 +42,7 @@ Find Fflags Posted by the Plexity Dev Team Here:
   "FFlagFullscreenTitleBarInjectGameServices": true,
   "FFlagHandleAltEnterFullscreenManually": true,
   "FFlagPhoneVerificationWebviewShouldBeFullscreen1": true,
-  "FIntFullscreenTitleBarTriggerDelayMillis": 500
+  "FIntFullscreenTitleBarTriggerDelayMillis": 500,
+  "FFlagVideoFixSoundVolumeRange": true
+  
 }
